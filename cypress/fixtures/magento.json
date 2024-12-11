@@ -1,0 +1,16 @@
+{
+    "firstName" : "Dimitar",
+    "lastName" : "Pop-Trpev",
+    "emailAddress" : "dimitartest1@test.test",
+    "password" : "test1234#",
+    "successfulAccountCreationMessage" : "Thank you for registering with Main Website Store.",
+    "jacketName" : "Juno Jacket",
+    "jacketSize" : "XL",
+    "color" : "Blue",
+    "jacketPrice" : "$77.00",
+    "pantsName" : "Aether Gym Pant",
+    "pantsSize" : 36,
+    "pantsPrice" : "$59.20",
+    "totalPrice" : "$136.20",
+    "emptyCartValidationText" : "You have no items in your shopping cart."
+}
